@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'postCategoryService' => [
-        'class' => '\concepture\yii2blog\services\PostCategoryService'
-    ],
-    'postService' => [
-        'class' => '\concepture\yii2blog\services\PostService'
-    ],
+//    'postCategoryService' => [
+//        'class' => '\concepture\yii2blog\services\PostCategoryService'
+//    ],
+//    'postService' => [
+//        'class' => '\concepture\yii2blog\services\PostService'
+//    ],
 ];
